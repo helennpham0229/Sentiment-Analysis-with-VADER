@@ -4,4 +4,4 @@ With today's technology and environment, companies might have mountains of custo
 
 For this short project, I am going to show you how to analyze the sentiments of customers who use Amazon Alexa using VADER.
 
-Check out my blog post for this project [here](https://helenpham0229.medium.com/sentiment-analysis-in-data-science-using-vader-bf339fd01762).
+
